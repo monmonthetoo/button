@@ -1,0 +1,26 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    
+}
+
+.container-item{
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+    margin: 10px;
+    color: white;
+}
+.one{
+    background-color: #75d6ff;
+    color: rgb(239, 243, 235);
+}
+.two{
+    border: 1px solid #75d6ff;
+    background-color: white;
+    color: #75d6ff;
+}
